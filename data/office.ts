@@ -3193,5 +3193,12 @@ export const officeLocations: OfficeLocation[] =
    "piso": "0",
    "ubicacion": "De Los Alemanes 6778 – B° Argüello Norte",
    "edificio": "UT 14 LOS BOULEVARES"
+ },
+ {
+   "id": 455,
+   "nombre": "DEFENSORIA GENERAL - MPD",
+   "piso": "3-4 y 6",
+   "ubicacion": "Edificio Duarte Quirós 650",
+   "edificio": "Duarte Quirós 650"
  }
 ]
