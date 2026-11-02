@@ -3322,7 +3322,7 @@ export const officeLocations: OfficeLocation[] =
   },
   {
     "id": 473,
-    "nombre": "TRIBUNAL DE GESTIÓN ASOCIADA N°1 - TGA 1",
+    "nombre": "TGA 1 - TRIBUNAL DE GESTIÓN ASOCIADA N°1 ",
     "piso": "2° PISO",
     "ubicacion": "Fructuoso Rivera 720",
     "edificio": "EDIFICIO DE FAMILIA"
@@ -3392,7 +3392,7 @@ export const officeLocations: OfficeLocation[] =
   },
   {
     "id": 483,
-    "nombre": "TRIBUNAL DE GESTIÓN ASOCIADA N°2 - TGA 2",
+    "nombre": "TGA 2 - TRIBUNAL DE GESTIÓN ASOCIADA N°2  ",
     "piso": "3° PISO",
     "ubicacion": "Fructuoso Rivera 720",
     "edificio": "EDIFICIO DE FAMILIA"

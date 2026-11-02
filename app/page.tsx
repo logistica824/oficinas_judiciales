@@ -112,7 +112,7 @@ export default function HomePage() {
         <BuildingSearchBar title="Tribunales 1" locations={TRIBUNALES_1_DATA} />
         <BuildingSearchBar title="Tribunales 2" locations={TRIBUNALES_2_DATA} />
         <BuildingSearchBar title="Polo Laboral" locations={POLO_LABORAL_DATA} />
-        <BuildingSearchBar title="Tucuman 360 / Familia" locations={FAMILIA_DATA} />
+        <BuildingSearchBar title="Polo Familia" locations={FAMILIA_DATA} />
         <BuildingSearchBar title="Ex-Banco" locations={EXBANCO_DATA} />
         <BuildingSearchBar title="Administración / Arturo M. Bas" locations={ADMINISTRACION_DATA} />
         <BuildingSearchBar title="San Jerónimo" locations={SANJERONIMO_DATA} />
