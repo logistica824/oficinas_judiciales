@@ -794,14 +794,14 @@ export const officeLocations: OfficeLocation[] =
    "edificio": "Tribunales 1"
  },
  {
-   "id": 455,
+   "id": 901,
    "nombre": "OFICINA DE TRAMITACION ELECTRONICA",
    "piso": "0",
    "ubicacion": "Entrando por DQ en planta baja (Al lado de expediente electronico)",
    "edificio": "Tribunales 1"
  },
  {
-   "id": 456,
+   "id": 900,
    "nombre": "EQUIPO TEC.INTERV.VIC. DELITOS CONTRA INTEG.SEXUAL- AREA SERVICIOS JUDICIALES",
    "piso": "-2",
    "ubicacion": "presentándose en la MESA DE ENTRADA DE EQUIPO TECNICO",
