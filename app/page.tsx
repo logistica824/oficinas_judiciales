@@ -12,7 +12,7 @@ import { HelpCircle, X, MapPin, Briefcase, Building2 } from 'lucide-react';
 const TRIBUNALES_1_DATA = officeLocations.filter(o => o.id >= 1 && o.id <= 113);
 const TRIBUNALES_2_DATA = officeLocations.filter(o => o.id >= 114 && o.id <= 289);
 const POLO_LABORAL_DATA = officeLocations.filter(o => o.id >= 290 && o.id <= 331);
-const FAMILIA_DATA = officeLocations.filter(o => o.id >= 332 && o.id <= 350);
+const FAMILIA_DATA = officeLocations.filter(o => o.id >= 332 && o.id <= 350 && o.id >= 456 && o.id <= 492);
 const EXBANCO_DATA = officeLocations.filter(o => o.id >= 351 && o.id <= 367);
 const ADMINISTRACION_DATA = officeLocations.filter(o => o.id >= 368 && o.id <= 383);
 const SANJERONIMO_DATA = officeLocations.filter(o => o.id >= 384 && o.id <= 451 );
