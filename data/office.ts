@@ -3200,5 +3200,264 @@ export const officeLocations: OfficeLocation[] =
    "piso": "3-4 y 6",
    "ubicacion": "Edificio Duarte Quirós 650",
    "edificio": "Duarte Quirós 650"
- }
+ },
+ {
+    "id": 456,
+    "nombre": "ACREDITACIÓN",
+    "piso": "PLANTA BAJA",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 457,
+    "nombre": "INFORMES",
+    "piso": "PLANTA BAJA",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 458,
+    "nombre": "ATENCIÓN CIUDADANA",
+    "piso": "PLANTA BAJA",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 459,
+    "nombre": "OGA OF. DE GESTIÓN Y APOYO DE LAS DEFENSORÍAS PÚBLICAS",
+    "piso": "PLANTA BAJA",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 460,
+    "nombre": "DEFENSORÍA MOVIL",
+    "piso": "PLANTA BAJA",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 461,
+    "nombre": "OFICINA DE IDENTIDAD",
+    "piso": "PLANTA BAJA",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 462,
+    "nombre": "CATEMU",
+    "piso": "PLANTA BAJA",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 463,
+    "nombre": "ETIRC",
+    "piso": "PLANTA BAJA",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 464,
+    "nombre": "SALAS DE ENTREVISTAS 1-11",
+    "piso": "PLANTA BAJA",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 465,
+    "nombre": "DEFENSORIA PÚBLICA DE FAM. N°1",
+    "piso": "1° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 466,
+    "nombre": "DEFENSORÍA PÚBLICA DE FAM. N°2",
+    "piso": "1° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 467,
+    "nombre": "DEFENSORIA PÚBLICA DE FAM. N°3",
+    "piso": "1° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 468,
+    "nombre": "DEFENSORIA PÚBLICA DE FAM. N°4",
+    "piso": "1° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 469,
+    "nombre": "DEFENSORIA PÚBLICA DE FAM. N°5",
+    "piso": "1° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 470,
+    "nombre": "DEFENSORIA PUBLICA DE FAM. N°6",
+    "piso": "1° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 471,
+    "nombre": "DEFENSORIA PÚBLICA DE FAM. N°7",
+    "piso": "1° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 472,
+    "nombre": "DEFENSORÍA PÚBLICA DE FAM. N°8",
+    "piso": "1° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 473,
+    "nombre": "TRIBUNAL DE GESTIÓN ASOCIADA N°1 - TGA 1",
+    "piso": "2° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 474,
+    "nombre": "SALA DE AUDIENCIAS N°1",
+    "piso": "2° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 475,
+    "nombre": "SALA DE AUDIENCIAS N°2",
+    "piso": "2° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 476,
+    "nombre": "UNIDAD DE GESTIÓN DE MEDIDAS PROVISIONALES PERSONALES",
+    "piso": "2° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 477,
+    "nombre": "UNIDAD DE GESTIÓN DE AUDIENCIAS DE PROCESOS DE CONOCIMIENTO",
+    "piso": "2° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 478,
+    "nombre": "UNIDAD DE GESTIÓN DE DIVORCIOS",
+    "piso": "2° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 479,
+    "nombre": "UNIDAD DE COORDINACIÓN",
+    "piso": "2° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 480,
+    "nombre": "UNIDAD DE GESTIÓN DE PROCESOS",
+    "piso": "2° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 481,
+    "nombre": "UNIDAD DE EJECUCIÓN",
+    "piso": "2° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 482,
+    "nombre": "FISCALIA DE FAMILIA",
+    "piso": "2° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 483,
+    "nombre": "TRIBUNAL DE GESTIÓN ASOCIADA N°2 - TGA 2",
+    "piso": "3° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 484,
+    "nombre": "SALA DE AUDIENCIAS N°1",
+    "piso": "3° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 485,
+    "nombre": "SALA DE AUDIENCIAS N°2",
+    "piso": "3° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 486,
+    "nombre": "UNIDAD DE GESTIÓN DE MEDIDAS PROVISIONALES PERSONALES",
+    "piso": "3° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 487,
+    "nombre": "UNIDAD DE GESTIÓN DE AUDIENCIAS DE PROCESOS DE CONOCIMIENTO",
+    "piso": "3° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 488,
+    "nombre": "UNIDAD DE GESTIÓN DE DIVORCIOS",
+    "piso": "3° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 489,
+    "nombre": "UNIDAD DE COORDINACION",
+    "piso": "3° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 490,
+    "nombre": "UNIDAD DE GESTIÓN DE PROCESOS",
+    "piso": "3° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 491,
+    "nombre": "UNIDAD DE EJECUCION",
+    "piso": "3° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  },
+  {
+    "id": 492,
+    "nombre": "CAMARA DE FAMILIA",
+    "piso": "3° PISO",
+    "ubicacion": "Fructuoso Rivera 720",
+    "edificio": "EDIFICIO DE FAMILIA"
+  }
 ]
