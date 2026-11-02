@@ -3452,5 +3452,12 @@ export const officeLocations: OfficeLocation[] =
     "piso": "3° PISO",
     "ubicacion": "Fructuoso Rivera 720",
     "edificio": "Polo Familia"
+  },
+  {
+    "id": 493,
+    "nombre": "OCIJI",
+    "piso": "1° PISO",
+    "ubicacion": "Tucuman 360",
+    "edificio": "Tucuman 360"
   }
 ]

@@ -16,6 +16,7 @@ const FAMILIA_DATA = officeLocations.filter(o => o.id >= 332 && o.id <= 350 && o
 const EXBANCO_DATA = officeLocations.filter(o => o.id >= 351 && o.id <= 367);
 const ADMINISTRACION_DATA = officeLocations.filter(o => o.id >= 368 && o.id <= 383);
 const SANJERONIMO_DATA = officeLocations.filter(o => o.id >= 384 && o.id <= 451 );
+const TUCUMAN_DATA = officeLocations.filter(o => o.id >= 493);
 
 export default function HomePage() {
   const [showInfo, setShowInfo] = useState(false);
@@ -116,6 +117,7 @@ export default function HomePage() {
         <BuildingSearchBar title="Ex-Banco" locations={EXBANCO_DATA} />
         <BuildingSearchBar title="Administración / Arturo M. Bas" locations={ADMINISTRACION_DATA} />
         <BuildingSearchBar title="San Jerónimo" locations={SANJERONIMO_DATA} />
+        <BuildingSearchBar title="Tucuman" locations={TUCUMAN_DATA} />
       </div>
 
       {/* 2. AGREGAMOS EL COMPONENTE AQUÍ ABAJO */}
