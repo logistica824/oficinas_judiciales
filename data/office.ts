@@ -2013,28 +2013,28 @@ export const officeLocations: OfficeLocation[] =
  },
  {
    "id": 286,
-   "nombre": "UNIDAD DE LA DEFENSA PÚBLICA OFICIAL Nº1",
+   "nombre": "UNIDAD DE LA DEFENSA PUBLICA OFICIAL Nº1",
    "piso": "-",
    "ubicacion": "mesa de entrada de tribunales 2, bajando las escaleras",
    "edificio": "Tribunales 2"
  },
  {
    "id": 287,
-   "nombre": "UNIDAD DE LA DEFENSA PÚBLICA OFICIAL Nº1 - DEFENSORÍA PÚBLICA PENAL",
+   "nombre": "UNIDAD DE LA DEFENSA PUBLICA OFICIAL Nº1 - DEFENSORIA PUBLICA PENAL",
    "piso": "-",
    "ubicacion": "Subsuelo del MODULO DE INGRESO (Por Fructuoso Rivera)",
    "edificio": "Tribunales 2"
  },
  {
    "id": 288,
-   "nombre": "UNIDAD DE LA DEFENSA PÚBLICA OFICIAL Nº2 - DEFENSORÍA PÚBLICA PENAL",
+   "nombre": "UNIDAD DE LA DEFENSA PUBLICA OFICIAL Nº2 - DEFENSORIA PUBLICA PENAL",
    "piso": "-",
    "ubicacion": "Subsuelo del MODULO DE INGRESO (Por Fructuoso Rivera)",
    "edificio": "Tribunales 2"
  },
  {
    "id": 289,
-   "nombre": "UNIDAD DE LA DEFENSA PÚBLICA OFICIAL Nº3 - DEFENSORÍA PÚBLICA PENAL",
+   "nombre": "UNIDAD DE LA DEFENSA PUBLICA OFICIAL Nº3 - DEFENSORIA PUBLICA PENAL",
    "piso": "-",
    "ubicacion": "Subsuelo del MODULO DE INGRESO (Por Fructuoso Rivera)",
    "edificio": "Tribunales 2"
@@ -2706,77 +2706,77 @@ export const officeLocations: OfficeLocation[] =
  },
  {
    "id": 385,
-   "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO",
+   "nombre": "DEFENSORIA PUBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO",
    "piso": "0",
    "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 386,
-   "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 1° TURNO",
+   "nombre": "DEFENSORIA PUBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 1° TURNO",
    "piso": "0",
    "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 387,
-   "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 10° TURNO",
+   "nombre": "DEFENSORIA PUBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 10° TURNO",
    "piso": "0",
    "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 388,
-   "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 2° TURNO",
+   "nombre": "DEFENSORIA PUBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 2° TURNO",
    "piso": "0",
    "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 389,
-   "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 3° TURNO",
+   "nombre": "DEFENSORIA PUBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 3° TURNO",
    "piso": "0",
    "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 390,
-   "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 4° TURNO",
+   "nombre": "DEFENSORIA PUBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 4° TURNO",
    "piso": "0",
    "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 391,
-   "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 5° TURNO",
+   "nombre": "DEFENSORIA PUBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 5° TURNO",
    "piso": "0",
    "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 392,
-   "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 6° TURNO",
+   "nombre": "DEFENSORIA PUBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 6° TURNO",
    "piso": "0",
    "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 393,
-   "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 7° TURNO",
+   "nombre": "DEFENSORIA PUBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 7° TURNO",
    "piso": "0",
    "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 394,
-   "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 8° TURNO",
+   "nombre": "DEFENSORIA PUBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 8° TURNO",
    "piso": "0",
    "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 395,
-   "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 9° TURNO",
+   "nombre": "DEFENSORIA PUBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 9° TURNO",
    "piso": "0",
    "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
@@ -3049,7 +3049,7 @@ export const officeLocations: OfficeLocation[] =
  },
  {
    "id": 434,
-   "nombre": "OFICINA DE GESTIÓN Y APOYO DE LAS DEFENSORÍAS PÚBLICAS DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO",
+   "nombre": "OFICINA DE GESTION Y APOYO DE LAS DEFENSORIAS PUBLICAS DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO",
    "piso": "",
    "ubicacion": "",
    "edificio": "San Jeronimo"
@@ -3154,7 +3154,7 @@ export const officeLocations: OfficeLocation[] =
  },
  {
    "id": 449,
-   "nombre": "UNIDAD DE LA DEFENSA PÚBLICA OFICIAL N°4 (COMPLEJO ESPERANZA)",
+   "nombre": "UNIDAD DE LA DEFENSA PUBLICA OFICIAL N°4 (COMPLEJO ESPERANZA)",
    "piso": "",
    "ubicacion": "",
    "edificio": "San Jeronimo"
@@ -3206,258 +3206,251 @@ export const officeLocations: OfficeLocation[] =
     "nombre": "ACREDITACIÓN",
     "piso": "PLANTA BAJA",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
-  },
-  {
-    "id": 457,
-    "nombre": "INFORMES",
-    "piso": "PLANTA BAJA",
-    "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 458,
     "nombre": "ATENCIÓN CIUDADANA",
     "piso": "PLANTA BAJA",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 459,
-    "nombre": "OGA OF. DE GESTIÓN Y APOYO DE LAS DEFENSORÍAS PÚBLICAS",
+    "nombre": "OGA OF. DE GESTION Y APOYO DE LAS DEFENSORIAS PUBLICAS",
     "piso": "PLANTA BAJA",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 460,
-    "nombre": "DEFENSORÍA MOVIL",
+    "nombre": "DEFENSORIA MOVIL",
     "piso": "PLANTA BAJA",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 461,
     "nombre": "OFICINA DE IDENTIDAD",
     "piso": "PLANTA BAJA",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 462,
     "nombre": "CATEMU",
     "piso": "PLANTA BAJA",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 463,
     "nombre": "ETIRC",
     "piso": "PLANTA BAJA",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 464,
     "nombre": "SALAS DE ENTREVISTAS 1-11",
     "piso": "PLANTA BAJA",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 465,
-    "nombre": "DEFENSORIA PÚBLICA DE FAM. N°1",
+    "nombre": "DEFENSORIA PUBLICA DE FAM. N°1",
     "piso": "1° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 466,
-    "nombre": "DEFENSORÍA PÚBLICA DE FAM. N°2",
+    "nombre": "DEFENSORIA PUBLICA DE FAM. N°2",
     "piso": "1° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 467,
-    "nombre": "DEFENSORIA PÚBLICA DE FAM. N°3",
+    "nombre": "DEFENSORIA PUBLICA DE FAM. N°3",
     "piso": "1° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 468,
-    "nombre": "DEFENSORIA PÚBLICA DE FAM. N°4",
+    "nombre": "DEFENSORIA PUBLICA DE FAM. N°4",
     "piso": "1° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 469,
-    "nombre": "DEFENSORIA PÚBLICA DE FAM. N°5",
+    "nombre": "DEFENSORIA PUBLICA DE FAM. N°5",
     "piso": "1° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 470,
     "nombre": "DEFENSORIA PUBLICA DE FAM. N°6",
     "piso": "1° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 471,
-    "nombre": "DEFENSORIA PÚBLICA DE FAM. N°7",
+    "nombre": "DEFENSORIA PUBLICA DE FAM. N°7",
     "piso": "1° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 472,
-    "nombre": "DEFENSORÍA PÚBLICA DE FAM. N°8",
+    "nombre": "DEFENSORIA PUBLICA DE FAM. N°8",
     "piso": "1° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 473,
-    "nombre": "TGA 1 - TRIBUNAL DE GESTIÓN ASOCIADA N°1 ",
+    "nombre": "TGA FAM 1 - TRIBUNAL DE GESTION ASOCIADA N°1 ",
     "piso": "2° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 474,
     "nombre": "SALA DE AUDIENCIAS N°1",
     "piso": "2° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 475,
     "nombre": "SALA DE AUDIENCIAS N°2",
     "piso": "2° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 476,
-    "nombre": "UNIDAD DE GESTIÓN DE MEDIDAS PROVISIONALES PERSONALES",
+    "nombre": "UNIDAD DE GESTION DE MEDIDAS PROVISIONALES PERSONALES",
     "piso": "2° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 477,
-    "nombre": "UNIDAD DE GESTIÓN DE AUDIENCIAS DE PROCESOS DE CONOCIMIENTO",
+    "nombre": "UNIDAD DE GESTION DE AUDIENCIAS DE PROCESOS DE CONOCIMIENTO",
     "piso": "2° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 478,
-    "nombre": "UNIDAD DE GESTIÓN DE DIVORCIOS",
+    "nombre": "UNIDAD DE GESTION DE DIVORCIOS",
     "piso": "2° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 479,
-    "nombre": "UNIDAD DE COORDINACIÓN",
+    "nombre": "UNIDAD DE COORDINACION",
     "piso": "2° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 480,
-    "nombre": "UNIDAD DE GESTIÓN DE PROCESOS",
+    "nombre": "UNIDAD DE GESTION DE PROCESOS",
     "piso": "2° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 481,
-    "nombre": "UNIDAD DE EJECUCIÓN",
+    "nombre": "UNIDAD DE EJECUCION",
     "piso": "2° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 482,
     "nombre": "FISCALIA DE FAMILIA",
     "piso": "2° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 483,
-    "nombre": "TGA 2 - TRIBUNAL DE GESTIÓN ASOCIADA N°2  ",
+    "nombre": "TGA FAM 2 - TRIBUNAL DE GESTION ASOCIADA N°2  ",
     "piso": "3° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 484,
     "nombre": "SALA DE AUDIENCIAS N°1",
     "piso": "3° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 485,
     "nombre": "SALA DE AUDIENCIAS N°2",
     "piso": "3° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 486,
-    "nombre": "UNIDAD DE GESTIÓN DE MEDIDAS PROVISIONALES PERSONALES",
+    "nombre": "UNIDAD DE GESTION DE MEDIDAS PROVISIONALES PERSONALES",
     "piso": "3° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 487,
-    "nombre": "UNIDAD DE GESTIÓN DE AUDIENCIAS DE PROCESOS DE CONOCIMIENTO",
+    "nombre": "UNIDAD DE GESTION DE AUDIENCIAS DE PROCESOS DE CONOCIMIENTO",
     "piso": "3° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 488,
-    "nombre": "UNIDAD DE GESTIÓN DE DIVORCIOS",
+    "nombre": "UNIDAD DE GESTION DE DIVORCIOS",
     "piso": "3° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 489,
     "nombre": "UNIDAD DE COORDINACION",
     "piso": "3° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 490,
-    "nombre": "UNIDAD DE GESTIÓN DE PROCESOS",
+    "nombre": "UNIDAD DE GESTION DE PROCESOS",
     "piso": "3° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 491,
     "nombre": "UNIDAD DE EJECUCION",
     "piso": "3° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   },
   {
     "id": 492,
     "nombre": "CAMARA DE FAMILIA",
     "piso": "3° PISO",
     "ubicacion": "Fructuoso Rivera 720",
-    "edificio": "EDIFICIO DE FAMILIA"
+    "edificio": "Polo Familia"
   }
 ]
