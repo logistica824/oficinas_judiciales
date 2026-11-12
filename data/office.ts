@@ -3195,13 +3195,6 @@ export const officeLocations: OfficeLocation[] =
    "edificio": "UT 14 LOS BOULEVARES"
  },
  {
-   "id": 455,
-   "nombre": "DEFENSORIA GENERAL - MPD",
-   "piso": "3-4 y 6",
-   "ubicacion": "Edificio Duarte Quirós 650",
-   "edificio": "Duarte Quirós 650"
- },
- {
     "id": 456,
     "nombre": "ACREDITACIÓN",
     "piso": "PLANTA BAJA",
@@ -3459,5 +3452,33 @@ export const officeLocations: OfficeLocation[] =
     "piso": "1° PISO",
     "ubicacion": "Tucuman 360",
     "edificio": "Tucuman 360"
+  },
+  {
+    "id": 494,
+    "nombre": "Ministerio Publico de la Defensa MPD - Defensor General",
+    "piso": "6to piso",
+    "ubicacion": "Oficina principal",
+    "edificio": "Tucumán 360"
+  },
+  {
+    "id": 495,
+    "nombre": "Ministerio Publico de la Defensa MPD - Defensores Adjuntos",
+    "piso": "6to piso",
+    "ubicacion": "Oficina principal",
+    "edificio": "Tucumán 360"
+  },
+  {
+    "id": 496,
+    "nombre": "Ministerio Publico de la Defensa MPD - Secretaría Privada",
+    "piso": "6to piso",
+    "ubicacion": "Oficina principal",
+    "edificio": "Tucumán 360"
+  },
+  {
+    "id": 497,
+    "nombre": "Ministerio Publico de la Defensa MPD - Relatoría",
+    "piso": "5to piso",
+    "ubicacion": "Oficina principal",
+    "edificio": "Tucumán 360"
   }
 ]
